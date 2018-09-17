@@ -144,6 +144,14 @@
 			"SupportedTargetPlatforms": [
 				"Lumin"
 			]
+		},
+		{
+			"Name": "PerforceSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "SubversionSourceControl",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
